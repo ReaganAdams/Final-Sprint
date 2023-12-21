@@ -1,0 +1,59 @@
+
+
+[
+    {
+        "Fname": "Reagan",
+        "Lname": "Adams",
+        "Age": "22",
+        "Birthmonth": "January",
+        "Birthyear": "2001",
+        "Birthplace":"Clarenville"
+    },
+
+    {   "Fname": "Gabrielle",
+        "Lname": "Adams",
+        "Age": "20",
+        "Birthmonth": "November",
+        "Birthyear": "2003",
+        "Birthplace":"St.Johns"
+    },
+
+
+
+    {
+        "Fname": "Bianca",
+        "Lname": "Adams",
+        "Age": "50",
+        "Birthmonth": "April",
+        "Birthyear": "1973",
+        "Birthplace":"New Glasgow"
+    },
+
+
+
+    {
+        "Fname": "John",
+        "Lname": "Adams",
+        "Age": "51",
+        "Birthmonth": "July",
+        "Birthyear": "1972",
+        "Birthplace":"Corner Brook"
+    },
+
+
+
+
+    {
+        "Fname": "Oakley",
+        "Lname": "Adams",
+        "Age": "7",
+        "Birthmonth": "November",
+        "Birthyear": "2016",
+        "Birthplace":"Toronto"
+    }
+
+
+
+]
+
+
